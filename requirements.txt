@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+pymupdf
+sentence-transformers
+numpy
+faiss-cpu
+requests
+aiofiles
+scikit-learn
+scipy
+streamlit==1.28.1
+requests==2.31.0
+pillow==10.1.0
