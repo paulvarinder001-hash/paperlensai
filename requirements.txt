@@ -12,6 +12,6 @@ requests
 aiofiles
 scikit-learn
 scipy
-streamlit==1.28.1
+streamlit>=1.45.1
 requests==2.31.0
 Pillow
